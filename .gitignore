@@ -1,0 +1,4 @@
+wp-admin/
+wp-includes/
+*.zip
+node_modules/
